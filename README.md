@@ -1,14 +1,14 @@
 # barracuda
 
-## References
-# Books
+# References 
+## Books 
 + Project Oberon: The Design of an Operating System, a Compiler, and a Computer Wirth N., Gutknecht J. 
 + modern operating systems tanenbaum
 + Operating System Concepts Avi Silberschatz 
 + Operating Systems: Internals and Design Principles William Stallings
 + Advanced Concepts In Operating Systems Мюкш Сингел, Niranjan G. Shivaratri
 + Design Unix Operating System Maurice J. Bach
-# URLs
+## URLs 
 + https://xakep.ru/2005/11/17/28794/
 + https://habrahabr.ru/post/101810/
 + https://habrahabr.ru/post/107030/
