@@ -9,6 +9,7 @@
 + Advanced Concepts In Operating Systems Мюкш Сингел, Niranjan G. Shivaratri
 + Design Unix Operating System Maurice J. Bach
 ## URLs 
++ https://habrahabr.ru/post/349248/
 + https://habrahabr.ru/company/oleg-bunin/blog/310848/
 + https://xakep.ru/2005/11/17/28794/
 + https://habrahabr.ru/post/101810/
