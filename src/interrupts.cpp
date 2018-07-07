@@ -1,0 +1,6 @@
+
+invalidTSS
+segmentNotPresent
+stackSegmentFault
+generalProtection
+pageFaul
