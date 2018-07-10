@@ -1,3 +1,7 @@
+//
+// Created by mrsmith on 08.07.18.
+//
+
 #ifndef BARRACUDA_SIGNALS_HPP
 #define BARRACUDA_SIGNALS_HPP
 
