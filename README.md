@@ -39,3 +39,4 @@ https://www.youtube.com/watch?v=AgeX-U4dKSs
 + https://habrahabr.ru/post/173705/
 + https://habrahabr.ru/post/270939/
 + https://wiki.osdev.org/Printing_To_Screen
++ https://habr.com/company/ua-hosting/blog/354874/
